@@ -1,0 +1,39 @@
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.headline {
+  color: white;
+  text-align: center;
+  font-family: "Metal Mania", cursive;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h1 {
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+}
+
+.best {
+}
+
+body {
+  background-image: url("https://media.giphy.com/media/13USt1URETlUFG/giphy.gif");
+}
