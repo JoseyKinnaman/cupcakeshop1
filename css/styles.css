@@ -36,4 +36,6 @@ h3 {
 
 body {
   background-image: url("https://media.giphy.com/media/13USt1URETlUFG/giphy.gif");
+  background-repeat: round;
+  background-size: cover;
 }
